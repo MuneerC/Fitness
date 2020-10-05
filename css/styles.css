@@ -39,10 +39,22 @@ a{
     background-image: url('/images/weights.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    margin-top: 50px;
+    margin-top: 20px;
     height: 400px;
-    margin-bottom: 150px;
+    /* margin-bottom: 150px; */
     
+}
+
+.workout-tron{
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.contract-tron{
+    height: 750px !important;
+    margin-bottom: 20px;
+    margin-top: 20px;   
 }
 
 
@@ -55,11 +67,10 @@ h5{
 
 .heading{
     text-align: center;
+
 }
 
-.introduction{
-    padding: 50px;
-}
+
 
 .into{
     padding: 20px;
