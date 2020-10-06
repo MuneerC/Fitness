@@ -36,9 +36,9 @@ a{
 
 
 .jumbotron{
-    background-image: url('/images/weights.jpg');
+    /* background-image: url('/images/weights.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     margin-top: 20px;
     height: 400px;
     /* margin-bottom: 150px; */
